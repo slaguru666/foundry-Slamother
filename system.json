@@ -1,7 +1,7 @@
 {
-  "id": "mosh",
-  "title": "MoSh - Unofficial Mothership",
-  "description": "The unofficial Mothership system for FoundryVTT.",
+  "id": "slamother",
+  "title": "MOSH - SLA Industry",
+  "description": "Unofficial SLA Version",
   "version": "0.6.0",
   "esmodules": [
     "module/mosh.js"
